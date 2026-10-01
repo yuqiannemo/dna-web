@@ -1,0 +1,963 @@
+{
+  "batch": "raw_08",
+  "mode": "raw",
+  "processed": 172,
+  "published": [
+    {
+      "model": "unsloth/Phi-4-mini-reasoning-unsloth-bnb-4bit",
+      "source_sha256": "c9b52eca73052d1a45b05d58630ee94ad8884f11c7849075c7fee654272724b7",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2-1.5B-Instruct-bnb-4bit",
+      "source_sha256": "309660937dfa44914e5125e3dd0893d6f3088b108a65ed1211de8820eeb14ece",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2-7B",
+      "source_sha256": "3b3bc2a85e338e09ebf3cd594bf7fc94fb96537f269fe9666ad2e55673033a3c",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2-7B-Instruct-bnb-4bit",
+      "source_sha256": "6dd6f8deaf2aed74700010f71d446871eee507c8e8ce8f88c38eecf8a98c0ac0",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B",
+      "source_sha256": "5957f8913d6ffb73a124d6239f70ea71dcc49a293efddd97b8ecd067794c8a80",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B-Instruct",
+      "source_sha256": "eaf3d4210de1f3d215a217366d047e7f66c086835f697e2673e3cc7c48af2c65",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B-Instruct-bnb-4bit",
+      "source_sha256": "f884a38b5d91601ee5f80e8d87f731e8d234c89da373d195bde8d8af2d12f4e5",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B-Instruct-unsloth-bnb-4bit",
+      "source_sha256": "6afbc9c76eb945d1ba001e1d03ce6cfd47d2d3764d7676acfce6dd7111508535",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B-bnb-4bit",
+      "source_sha256": "55a423fd0153218d84c541f13c7f7ff9fec03bfc327dec978905ab5934f4ccac",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-0.5B-unsloth-bnb-4bit",
+      "source_sha256": "b44828a22f353f593ef71009ac13454e7f6e1b92c682e546c538d6f8ec90a6bc",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B",
+      "source_sha256": "93d643a1d6cc24522486e5dd9573e83b93bf66679a974132fb269840b1f131fc",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B-Instruct",
+      "source_sha256": "abb0ed8852ea2feb77f49582aad37222910e475a8ee4e4fcdc6d65d98f13acde",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit",
+      "source_sha256": "dd87ecd531e8d1c3889dff279efcd50b493a2f4f66b570b35cfaaf748db3495e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit",
+      "source_sha256": "21dca58a59b03a061da0191a40f43267e7dbadd4199172f0c49b9d3eb81910b1",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B-bnb-4bit",
+      "source_sha256": "23902191da12481e049c1892d0889bebb7b054caefe01aebbf310fd887185a22",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-1.5B-unsloth-bnb-4bit",
+      "source_sha256": "c00b4fc713f45716ed7136174581c74cb416d8f71a6403a522bdff79e2b09483",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-14B-Instruct",
+      "source_sha256": "161136c003abcf1ef29a2390c7bb74d40354ebf477b829931ed89e859e66fd3c",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-14B-Instruct-bnb-4bit",
+      "source_sha256": "09f4eae20851c403c0cf0e5d01621d2242a375d9c6d91f9e8a09260d55ccbf81",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-14B-Instruct-unsloth-bnb-4bit",
+      "source_sha256": "2d116056c18d03ade27595a412a3a3b8751ebfefd95f41990a0a2f0f7b5d7ba3",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-14B-bnb-4bit",
+      "source_sha256": "495a270e7c48a29a2cb0eeb05a60db090ff9e7a440823c5a8bbdb975671c514d",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-32B-Instruct",
+      "source_sha256": "14c1e94cb4315f21256114630607d7317bb4a3f8a7a962bcf59f42c0c3ab8a65",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-32B-Instruct-bnb-4bit",
+      "source_sha256": "063555938fc5d03d0ac683974c5284a1878762eeb2f58e12dad501add0d07239",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-3B-Instruct",
+      "source_sha256": "df0cb9cb4d2555e3d7c6bd80bb1181471ea1b85ee2b9f4fbfd568489e4a06020",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-3B-Instruct-bnb-4bit",
+      "source_sha256": "1ab513a83846ffb93186b73195006da9fd6a66b849fd2ab150eb6f17d89920ff",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-3B-Instruct-unsloth-bnb-4bit",
+      "source_sha256": "685ded4e43002edda60d7e3de264bfc439295b2dc4bcc392d28c7fee36968299",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-3B-bnb-4bit",
+      "source_sha256": "c25bc63dcb3b55d15e651453ef4736120c3375b2b813ab20e4af4d501c3ce2c5",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-3B-unsloth-bnb-4bit",
+      "source_sha256": "6a6cddfa2cd69a61ed400661874b83e50808b7daf421ef6cdc6fbd7052d7da8e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B",
+      "source_sha256": "de9d6ef025ee7a798490d452f4dfbedfca073faa0a42f63e66cf4a04f3b4a1d6",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B-Instruct",
+      "source_sha256": "50da4e010a3574383391c7b6728ef44cb2a82edf4e79770578e62778fa1b7546",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
+      "source_sha256": "bb90e20af101ff59db3bc5a58727da5f68c2698a29f89d19bf8290f1b0aae410",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bit",
+      "source_sha256": "0ba95f7b64130af49a018f3ee1ebe07045abeec7c0d6824f48f30360228c70d6",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B-bnb-4bit",
+      "source_sha256": "02e46065f1ebe74fa8603b68499449b883827e191c7022cfc7784556f066f912",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-7B-unsloth-bnb-4bit",
+      "source_sha256": "4e3e6b0207308feec8d19c98368718e953d3a01f84cebe4bb5029f9cb7e4d1a1",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-0.5B-Instruct-bnb-4bit",
+      "source_sha256": "b39811cc87cf5fed1a45dea5f3304ec6daf1c96b3b48c2ccc77421cf9a4d0439",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-1.5B-Instruct",
+      "source_sha256": "910610c9a9ae42ba38f9e33fdacb136bedbe3a7996d174d6d2c7747e068209ec",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-1.5B-Instruct-bnb-4bit",
+      "source_sha256": "26ed54db8e5d4af32ca70ac258ce801d6ebc9feee2d373d46d39e1ca3aa05634",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-1.5B-bnb-4bit",
+      "source_sha256": "0b7f1c8cc475cb520622fd8362ebfae4433c6a138ef747f3bbfd413fc11ac892",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-14B-Instruct-bnb-4bit",
+      "source_sha256": "4d59ab2c0f1df56a8d7f39152e1d16499a0c425501016bc721d1a8585a48e44e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-14B-bnb-4bit",
+      "source_sha256": "5282704260df747accc992649fd53cddf63e9d11897ed35af950e6666c71610a",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-32B-Instruct",
+      "source_sha256": "13e1efca8b90744c2a4ab12407501bba2ce8be8ada9c0d94363327c178c31fbf",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-32B-Instruct-bnb-4bit",
+      "source_sha256": "4f653bf7655919b0fc4d8a3c86ea52cb5de4221ee1f137e1be35c6e4023b9d0a",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-3B-Instruct",
+      "source_sha256": "e5e904577c681d03b153085a026b4ad5c743f67e8c38f2936d2d0a214eaa29cc",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-3B-Instruct-bnb-4bit",
+      "source_sha256": "4e7f38d6718c16253d2cb255a3cb9ee36971a7e4efbae977562c3bb5b35c8b60",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-3B-bnb-4bit",
+      "source_sha256": "af0a1ec2661fcc969ce65763c08ba02003e4897542ca653881314e3d648df5d7",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-7B-Instruct",
+      "source_sha256": "9d8ebb341a338f977a29cefb03c6e4c179226c60adf3cd0afea861f82ec98db4",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit",
+      "source_sha256": "1b5a5ba842aa0bddd8f3143d1b7b0a801eae722c1c6b4ca94f8cc5bbfa874ab4",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Coder-7B-bnb-4bit",
+      "source_sha256": "a603155aa7e9bf27423aa17d01d485e3a873d376e45c40a850c7a5a73770d749",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen2.5-Math-1.5B-bnb-4bit",
+      "source_sha256": "c0db212b5950cb4cb59374c497af885efafc50257078b2bd0ebc5fa0cf4aee22",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-0.6B-Base",
+      "source_sha256": "cea921923c5fe4e6810dd64167ddc03e09700cd794ce83bf23eb01dd078c5673",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-0.6B-Base-unsloth-bnb-4bit",
+      "source_sha256": "ab51e0f51540bbcccba1a890915a6b4b673541391f58e52e94745e891857ff46",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-0.6B-unsloth-bnb-4bit",
+      "source_sha256": "de0df9b229e683176b4c36a9c8da6e898a888454ca16f28f21f791c64a9f12ad",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-1.7B-Base",
+      "source_sha256": "6e74a60733b7d8ca0c4290880a60a997cd3acfc4e9be8a3709f883d9fdeaf804",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-1.7B-Base-unsloth-bnb-4bit",
+      "source_sha256": "74e16e53fa84a5c7d789bf9e247832515c10785358929734e2a43439f1219cd9",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-1.7B-unsloth-bnb-4bit",
+      "source_sha256": "d3d19d2a876f5b06ee3c68910a889f196f62b991e2af132c9ba9531c44570666",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-14B-Base-unsloth-bnb-4bit",
+      "source_sha256": "34459179155283eb1180ba1a6315f03783c3ffe1120c0d855f30b23fd2790034",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-14B-unsloth-bnb-4bit",
+      "source_sha256": "37c3082993372cb10864eb9d7d3a1e423c9026856bb17911d51093293fadd717",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-30B-A3B-Instruct-2507",
+      "source_sha256": "42bc36fca5514901cb1ac95fa5a972c8fb85f5eb22e2c7c1ac3aa86da494a41e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-32B-unsloth-bnb-4bit",
+      "source_sha256": "fb195dc72012edf6893f1716954c2d85abfac269337e1de29a5d6b0017f42642",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Base",
+      "source_sha256": "910079bde488a497141446613b0cb3287f4268bf378a4a515abd60722cd056ce",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Base-unsloth-bnb-4bit",
+      "source_sha256": "4ab878e1c626581d3d62b1f996e66816aa4b564641cf08307dea7ac4f07c408f",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Instruct-2507",
+      "source_sha256": "6abdcb0b0256c639cff7fca0edf7070188cc99b0d3fe04b3a50bf353b57b9382",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Instruct-2507-bnb-4bit",
+      "source_sha256": "bb8123906d49f48cbe89aea6033c36d20557ccfecdacb2b3c210784fad162e34",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit",
+      "source_sha256": "b123542c40d36ee289eee07007e2f7891b65dc2654e492ba3da8d01e01ab2f5b",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Thinking-2507",
+      "source_sha256": "62318fd8eeb60c40477835d3ae799caab14becee159608e31bdfcf9bec3f54d2",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-Thinking-2507-unsloth-bnb-4bit",
+      "source_sha256": "9653489b0d6edfbefb56e1498b9f6e2decbdb7292700ea81212fcb59db6fa20b",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-4B-unsloth-bnb-4bit",
+      "source_sha256": "b7fbd4c0837f4ae23175f74de8586067f021b3c085b16b98aafe0eb9ecb77ef1",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-8B",
+      "source_sha256": "745025d56f946d1249c162b079a520702dcbdf93e59b77e31c59343143685f59",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-8B-Base",
+      "source_sha256": "42def44069e478ab6e5d715fdd0be4127bd2008345908503fa40392e34ad9c05",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/Qwen3-8B-Base-unsloth-bnb-4bit",
+      "source_sha256": "41e9ee4a21378837204f894fd5512382ec9b283d4dcf0af84a04c0d38aeace74",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/SmolLM2-135M-Instruct-bnb-4bit",
+      "source_sha256": "cdd6d82b5210ba23ffd854d3c09bef53d0f15c0f1d67449bba30bf9e7d544100",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/codellama-7b-bnb-4bit",
+      "source_sha256": "5b9cf6517eef4ff370ffc75db800a06b3cd23ef60f256d70154902b03247200f",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/functiongemma-270m-it",
+      "source_sha256": "628a6c4ed963862f71328d24012481e0f50b39ed2cd8c7b46de58bbda71ad272",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/functiongemma-270m-it-unsloth-bnb-4bit",
+      "source_sha256": "6254d62c95ab315460e80af040ffb5824192d519bdcd2b1fc9068f4708aea46a",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-2b-bnb-4bit",
+      "source_sha256": "7f5021ab164611a6189b340949dcb6c5a2d988a50fed32c4a3b3c5cbc459e5cd",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-2b-it",
+      "source_sha256": "c0c0246d2826d8e99e7406d28cfcf10ada3dd503a14d2e75654b3675e519e0e5",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-2b-it-bnb-4bit",
+      "source_sha256": "52d88888ee3f23f04d36749b20dd4e0c43977ba2f6d4500cdc330dcf4aaffd15",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-9b-bnb-4bit",
+      "source_sha256": "d94aac649ecab78d712a58b16ef206e6c6ef785d60561664907af38e984f4b2d",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-9b-it",
+      "source_sha256": "f896caeb33d2e1d9c1593fd59611251d6a68ae29218358f2aa7077f7748aa858",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2-9b-it-bnb-4bit",
+      "source_sha256": "67cd15b0b1aa2799990b0de3be851ee74e1effd57c24c48d9996e55398a43bd9",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-2b-bnb-4bit",
+      "source_sha256": "b33cb288c2ee643655f13661d90b79e454a1834b85a0f55e14b29e5be72c513e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-1b-it",
+      "source_sha256": "7b9360a11cc371eebcbb2b450aa861a3267e5d66bf617b3d56ee08a3583bd6f0",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-1b-it-bnb-4bit",
+      "source_sha256": "105d163f725c3d9733a8615afcc06bb4ab939dcd3496f84da72d79d3ae206f38",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-1b-it-unsloth-bnb-4bit",
+      "source_sha256": "9b652e7c4abadee559a7f1d757d6b0e10a367e7c799f498de8bf47a1e87488b4",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-270m",
+      "source_sha256": "2185cb99b3d2b534f50c87bb27574ba485c7008af0f65690685b3d797417038e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-270m-it",
+      "source_sha256": "268096edef4f893e33626b2e93e718b9407c8c9c290dae9cdefc8843da8f208c",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-270m-it-bnb-4bit",
+      "source_sha256": "d685e0a1d298e60ca0c0c0f001cb69b64a58148dba88c33879158dd62d37e837",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-3-270m-it-unsloth-bnb-4bit",
+      "source_sha256": "994f3b51355751d32fe58a2d98c1d22b425160648178e70050d35946c78bbb0f",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gemma-7b-it",
+      "source_sha256": "cc769cb9c6cd54b6c8adbad83492e11f40625eb4530359780925beb5fd450cdd",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gpt-oss-20b",
+      "source_sha256": "9a65bc56df5d30b6cb85030afbe555f016366c9f9aa094fc72d4f11b6cf15b5a",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gpt-oss-20b-BF16",
+      "source_sha256": "563ac0030069425e44de99f0436f97a5444ddf2dd04fc9b0b15196b7863844f4",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/gpt-oss-20b-bnb-4bit",
+      "source_sha256": "3f2a70e898d16ecb3ff67c85b068ff294d084d409f4fa656dbcdfb35ebdb3bf6",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/granite-4.0-h-tiny",
+      "source_sha256": "06b06a999a49e888a2368fc20be0299c3c7c4a73240fe4ec97283dfe372da940",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-2-7b",
+      "source_sha256": "1a2824016ad018e20f08c5b9d3b71fec42175e128709b10d94c754359d12b02f",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-2-7b-bnb-4bit",
+      "source_sha256": "210772056afa9a1391e8bef475415cf178f58e1be5ae65f66223cebdc4bcfed2",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-3-8b",
+      "source_sha256": "3d51f9c9f279b127f1e33412349e41613e2289f51aea5c4804544841f2af7fca",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-3-8b-Instruct",
+      "source_sha256": "dac7224d42c977aeeb26eb8d965b92c39df013813aa500635ec2ef40e037d68e",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-3-8b-Instruct-bnb-4bit",
+      "source_sha256": "25670199ba185d99e4f8919236c00c7b9edfc5fe0de386b4a6286c259201b7a1",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/llama-3-8b-bnb-4bit",
+      "source_sha256": "da822c23aa36d01b432a2752ab03c00e7d72eee59ebf959557d05b0624234041",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/meta-Llama-3.1-8B-unsloth-bnb-4bit",
+      "source_sha256": "1081187eb823d270a4f733d8f70037f3f1b477ac626a83008d79887c1cdb2a16",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-bnb-4bit",
+      "source_sha256": "664448873146d5c73d9eebcbf65475ff78dd4b9aeb712ce1f49d57765e3ee3b9",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-instruct-v0.2-bnb-4bit",
+      "source_sha256": "0626d2552ccd6529af4048c8821e21fd0a926df6403bd01d036e998ef2589793",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-instruct-v0.3",
+      "source_sha256": "f4cb8ae1d21de80d2d1bce46dd95a41b452098dc624da98af40857bc81a20a70",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
+      "source_sha256": "04d37806c0e780761a2c56278087700cdb42c954edaa8b59b586ced0d8f7443d",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-v0.3",
+      "source_sha256": "1c0107781234b95a26c886f2e9ecf78d376b17e0c604a010820ef13e64309529",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/mistral-7b-v0.3-bnb-4bit",
+      "source_sha256": "1de31a78106319bc8e81097a5750ae79ce776179ab7d4aa160cc2b2a4d9064e4",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/phi-4",
+      "source_sha256": "7d1cbcfff607db03a17d6306bd7d8eda3f6f5719bcc4244b61d92b344b040581",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/phi-4-bnb-4bit",
+      "source_sha256": "3328bf6e88ad54447db092e01c21637f6c19d5bda1b48004b97bc0a34d8f1720",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/phi-4-unsloth-bnb-4bit",
+      "source_sha256": "0983189b8e43be4606ca6eca78239750b33024370d6e810745f1e580236e6d7f",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/tinyllama-chat",
+      "source_sha256": "9b3bd050c86d58aa995c67de9c540841e05c7b5221fc46c3690eab48aea182f8",
+      "empty_indices": []
+    },
+    {
+      "model": "unsloth/tinyllama-chat-bnb-4bit",
+      "source_sha256": "b6663ce5b3efe6327c0813fd37ae8833082d2fd8ab62a0c698c6a054f097e1d9",
+      "empty_indices": []
+    },
+    {
+      "model": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "source_sha256": "43ebfea9723f36693aac431a8051be7eb9a228fd647484fc866b29715c2c73f4",
+      "empty_indices": []
+    },
+    {
+      "model": "utter-project/EuroLLM-1.7B",
+      "source_sha256": "6d1461c5b7c510c356f4f43b6f4a4b4de20d6557770cf4dc4efd14e7e0f96f47",
+      "empty_indices": []
+    },
+    {
+      "model": "utter-project/EuroLLM-9B-Instruct-2512",
+      "source_sha256": "c25395435ae9976582eecae246c69f5a3e2e03c88b6ce67a12405e9e1bacc15b",
+      "empty_indices": []
+    },
+    {
+      "model": "uukuguy/speechless-code-mistral-7b-v1.0",
+      "source_sha256": "914cfae0e16bcb5bc4ddf391eba8bb74c19a92aca7c1f263c83f41845b967c3b",
+      "empty_indices": []
+    },
+    {
+      "model": "uukuguy/speechless-zephyr-code-functionary-7b",
+      "source_sha256": "fbef0f10c0277c7938db587f1e99996b4fd061494bb16a5f5fb8d83334176eb2",
+      "empty_indices": []
+    },
+    {
+      "model": "vaiv/GeM2-Llamion-14B-Base",
+      "source_sha256": "99d5ef7cecf03bbb270a22fd1d814123171061d63918e39c2a3d6184800835f6",
+      "empty_indices": []
+    },
+    {
+      "model": "vaiv/GeM2-Llamion-14B-Chat",
+      "source_sha256": "007fd05388012c8afb69d92f2c049b1e9d1827da58f9541ed29a4c41521bc595",
+      "empty_indices": []
+    },
+    {
+      "model": "vaiv/GeM2-Llamion-14B-LongChat",
+      "source_sha256": "c189bcbc46aac47ee6dac9461062db50fc0cd4fc1883dc72bedabf07fb85a0a4",
+      "empty_indices": []
+    },
+    {
+      "model": "vandijklab/C2S-Scale-Gemma-2-2B",
+      "source_sha256": "875f43d55b3ef8aee87b864e88229d30d2575753b951bdf5f98d1fba6c3d281c",
+      "empty_indices": []
+    },
+    {
+      "model": "verseAI/databricks-dolly-v2-3b",
+      "source_sha256": "172d0aa4913b3b3e0065512b7f38e0c9999696566db16e81a1a7120d5579336a",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/Configurable-Hermes-2-Pro-Llama-3-8B",
+      "source_sha256": "b4054fa47e0b1fdc88bcf0bed94e6226ab215bf1415e169738bf550b54811b86",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/Configurable-Llama-3-8B-v0.3",
+      "source_sha256": "c8d0b51dcc9a3f6aad3169f1b96ca4ffc4d058396c20163198afd4b87a2bbe8c",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/Configurable-Mistral-7B",
+      "source_sha256": "b0cd646bb4748ec3668c7e35bc608c56f525014c35ba95c18e0ac437739b3fff",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/Configurable-Yi-1.5-9B-Chat",
+      "source_sha256": "f1ca74968309c9cbba09ee32b69e7498e8fda517a1e13854aa7969f57e5e94bc",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/ConfigurableBeagle-11B",
+      "source_sha256": "c32c3ced17900a141af1f9e9324b1c405bf9fab07738ba04a8da8940286a1ee6",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/ConfigurableHermes-7B",
+      "source_sha256": "8baf15b626ae52afda9d64ddb45c2a4b4a8f8c887645da2c3d76839df88d5f53",
+      "empty_indices": []
+    },
+    {
+      "model": "vicgalle/gpt2-alpaca",
+      "source_sha256": "d56cf94eb0bb2cfe574e369a9338bf74479e1ab419c7055e7fa1d9f6a7ff9702",
+      "empty_indices": []
+    },
+    {
+      "model": "vincentzed-hf/Qwen3-Coder-Next-NVFP4",
+      "source_sha256": "7d246fd1c28c7f2c04cd4ba4a1f6fe9bb62b3c1dd9587c7948dbc693dd3b0f77",
+      "empty_indices": []
+    },
+    {
+      "model": "voidful/Llama-3.2-8B-Instruct",
+      "source_sha256": "40f8c1f9fedea31ae8df65bb8ac3e57e8d85a8f5ece1586cf5f13b56185128eb",
+      "empty_indices": []
+    },
+    {
+      "model": "walid-iguider/Llama-3-8B-4bit-UltraChat-Ita",
+      "source_sha256": "84385fec0c12d81ae9ee7a1240f3964c0441b0128b83c2177d2196cdc361c202",
+      "empty_indices": []
+    },
+    {
+      "model": "warshanks/Jan-nano-AWQ",
+      "source_sha256": "ce15a9a8d9d18a10b8f7d366310deefea872ccdf0ac85e33ad6b133e1788015b",
+      "empty_indices": []
+    },
+    {
+      "model": "warshanks/Qwen3-8B-abliterated-AWQ",
+      "source_sha256": "b96c78b4932a11262c91e66476bba46b6c6957e645683d5b515eea5c0404635a",
+      "empty_indices": []
+    },
+    {
+      "model": "wenbopan/Faro-Yi-34B",
+      "source_sha256": "988a9d66ad598c4892effe89c552b567b66989fe39e3fcc3d3a72105c2e29077",
+      "empty_indices": []
+    },
+    {
+      "model": "wenbopan/Faro-Yi-34B-DPO",
+      "source_sha256": "6a8502945a00e2881775f188499f77f7c044e56036b73a56c8fda11aacfd61f6",
+      "empty_indices": []
+    },
+    {
+      "model": "wenbopan/Faro-Yi-9B",
+      "source_sha256": "5d3ace208a7c7dc6e6882c900b16bc1c24cd125ee2ecdf812b8afb7192d1d739",
+      "empty_indices": []
+    },
+    {
+      "model": "wenbopan/Faro-Yi-9B-DPO",
+      "source_sha256": "c2fdf0e1f6a768fdc26aa6e2b993025b2afd891dfa0479c129093fbdc450ca46",
+      "empty_indices": []
+    },
+    {
+      "model": "willcb/Qwen3-8B",
+      "source_sha256": "85c27a028533ae98624e21975286493c98b8df046e93d1647b27ac7de9854846",
+      "empty_indices": []
+    },
+    {
+      "model": "winninghealth/WiNGPT2-Llama-3-8B-Base",
+      "source_sha256": "b53671126eda67c58b655bef51defa3c628bfed27d1befbf7ac805ff01953608",
+      "empty_indices": []
+    },
+    {
+      "model": "winninghealth/WiNGPT2-Llama-3-8B-Chat",
+      "source_sha256": "57c08298e3a9410ea2c759c36a0aa5721480e095f140ffb2d6829824674b0cc5",
+      "empty_indices": []
+    },
+    {
+      "model": "yahma/llama-7b-hf",
+      "source_sha256": "d7d98587887457a58047193c7141585391b099431646ba5a0b01e342e00a42d5",
+      "empty_indices": []
+    },
+    {
+      "model": "yam-peleg/Hebrew-Gemma-11B-V2",
+      "source_sha256": "355e1e6ca24e3aa23b35db96cd751ef01db0e1fb79fdc381085f4516e93844f5",
+      "empty_indices": []
+    },
+    {
+      "model": "yam-peleg/Hebrew-Mistral-7B",
+      "source_sha256": "cd4257f7d892df846d3d7cb4612c91a11da3cb13ae86479dac347742a25123a3",
+      "empty_indices": []
+    },
+    {
+      "model": "yanolja/YanoljaNEXT-EEVE-Instruct-10.8B",
+      "source_sha256": "0bcbeb48f674cff7a0e2547433139804909c41b3e6e79e518a7d0f6a1023c051",
+      "empty_indices": []
+    },
+    {
+      "model": "yaojialzc/Gigi-Llama3-8B-Chinese-zh",
+      "source_sha256": "3b03c15e52e3b8266bef0049d51f217c91be42ed17a3d578199442ed89f31c58",
+      "empty_indices": []
+    },
+    {
+      "model": "yec019/fbopt-350m-8bit",
+      "source_sha256": "b956442eeaec530ef3d44248ffe8261c84aabc7cd943d69dc85c67a0667ff02d",
+      "empty_indices": []
+    },
+    {
+      "model": "ystemsrx/Qwen2.5-Sex",
+      "source_sha256": "067912a6c1626d0d7b00189bdee7dc885beae4aa9cfee7a08337153f9bd1efe4",
+      "empty_indices": []
+    },
+    {
+      "model": "ytu-ce-cosmos/Turkish-Gemma-9b-T1",
+      "source_sha256": "d84f56ebda5cbe1f547dd0a667d7fef85c8f0f6baca3147f9099ec6d22fe9ca6",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/gpt-oss-tiny-random",
+      "source_sha256": "74b0201df045cf487d11b09d9d927b56b30a52a3428098a5287e924848c251cd",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/llama-3-tiny-random",
+      "source_sha256": "fd90b452be4454da23506b638292faa35e7405948f28a2a8cd1409d31bcb0352",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/llama-4-tiny-random",
+      "source_sha256": "1d6db47854430ae56d518308fffaa36e9c1be891c7b6ba52218dbbe27766b76f",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/qwen3-moe-tiny-random",
+      "source_sha256": "29ba9ae3fb7b494fbb00d49753b61bc708419aac9947ffb54e9764ad4d284349",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/qwen3-next-moe-tiny-random",
+      "source_sha256": "20a7c0ec5ab470bf9b0bff9a3ba42ab4c60384bf9b898d79d1aeea5f7bb2fcae",
+      "empty_indices": []
+    },
+    {
+      "model": "yujiepan/qwen3-tiny-random",
+      "source_sha256": "7d26fbaaf86d044ceeb8dcb22b05f1ff7e6e447ba325213c0f908160cd79d638",
+      "empty_indices": []
+    },
+    {
+      "model": "yunconglong/DARE_TIES_13B",
+      "source_sha256": "2ece293d1bf4daa87ee297926ee5d127f60c7aefb130f085ae1e1cb1d53cc3b5",
+      "empty_indices": []
+    },
+    {
+      "model": "yunconglong/MoE_13B_DPO",
+      "source_sha256": "ef7a568933ef07b20299acee4ae42720162c2bf21f4c1ba20af459d792e126af",
+      "empty_indices": []
+    },
+    {
+      "model": "yunconglong/Truthful_DPO_TomGrc_FusionNet_7Bx2_MoE_13B",
+      "source_sha256": "a46c49f003700413bcf3e03493aa613e9de856c3b7107ec9142844e062a35f22",
+      "empty_indices": []
+    },
+    {
+      "model": "zai-org/GLM-4-9B-0414",
+      "source_sha256": "131c94806042a74b08ac34873dcaa44f9fdd4211020951d420cc3ab4adc392f2",
+      "empty_indices": []
+    },
+    {
+      "model": "zai-org/GLM-Z1-32B-0414",
+      "source_sha256": "166284f556bdceff0ad21984cc6d89233f5364eb6c8afb886056fa6ad6ef5efc",
+      "empty_indices": []
+    },
+    {
+      "model": "zai-org/GLM-Z1-9B-0414",
+      "source_sha256": "0e435ac038688a8997aec2dbecb099c66ac58eeef402c6ee56413bb03ba739f6",
+      "empty_indices": []
+    },
+    {
+      "model": "zai-org/glm-4-9b",
+      "source_sha256": "029596703b048641859860a42abb277228e1909f0d3af6b48ae851e42a785c68",
+      "empty_indices": []
+    },
+    {
+      "model": "zai-org/glm-4-9b-chat-hf",
+      "source_sha256": "abf8d008caf0b7c40acf2f1c884437d30813d4fca29449a09009729b9efa810b",
+      "empty_indices": []
+    },
+    {
+      "model": "zerowsw/coderm-8b",
+      "source_sha256": "6cd3b6f3eb89861b38e41428b5fde939fe9b992fc37e6fcc558b50a439358565",
+      "empty_indices": []
+    }
+  ],
+  "withheld": [
+    {
+      "model": "unsloth/Qwen2.5-32B-bnb-4bit",
+      "empty_indices": [
+        11
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "unsloth/gemma-2-27b",
+      "empty_indices": [
+        80,
+        84
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "unsloth/tinyllama-bnb-4bit",
+      "empty_indices": [
+        93
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "upstage/SOLAR-10.7B-v1.0",
+      "empty_indices": [
+        4,
+        9,
+        10,
+        14,
+        25,
+        29,
+        41,
+        64,
+        65,
+        86,
+        94,
+        95,
+        96
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "utter-project/EuroLLM-1.7B-Instruct",
+      "empty_indices": [
+        1,
+        43,
+        70,
+        76
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "utter-project/EuroLLM-22B-2512",
+      "empty_indices": [
+        1,
+        2,
+        7,
+        11,
+        17,
+        19,
+        21,
+        29,
+        34,
+        36,
+        37,
+        40,
+        41,
+        51,
+        52,
+        58,
+        63,
+        69,
+        71,
+        80,
+        87,
+        95,
+        96,
+        99
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "utter-project/EuroLLM-22B-Instruct-2512",
+      "empty_indices": [
+        17
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "vicgalle/CarbonBeagle-11B",
+      "empty_indices": [
+        28,
+        36,
+        42,
+        58,
+        68,
+        77
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "vicgalle/CarbonBeagle-11B-truthy",
+      "empty_indices": [
+        28,
+        57,
+        77
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "zstanjj/HTML-Pruner-Phi-3.8B",
+      "empty_indices": [
+        1,
+        3,
+        6,
+        9,
+        20,
+        25,
+        40,
+        41,
+        45,
+        53,
+        56,
+        58,
+        60,
+        63,
+        76,
+        94,
+        99
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    }
+  ],
+  "coordinate_system": {
+    "pipeline_version": "text-dna-concat-v1",
+    "encoder": "Qwen/Qwen3-Embedding-8B",
+    "encoder_revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+    "pre_agg_embed_dim": 64,
+    "normalize_embeddings": false,
+    "projection_sha256": "08d4233dd9c1fb58e4c35a1035df063e3adb5b72e14c5566139824941e2c793a",
+    "probe_order_sha256": "8e01e69df865b3123c9242ff0d6dd39761e21e5e87e7e3c6b17e4a139c7c1c09",
+    "probe_count": 100
+  },
+  "generation": "Reused historical responses; zero provider API calls.",
+  "limitations": "100 historical random Chinese probes, not the new default 600 benchmark probes. Legacy generation provenance may be unknown."
+}
