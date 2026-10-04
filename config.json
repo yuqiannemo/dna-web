@@ -6,8 +6,8 @@
   },
   "datasets": {
     "raw": {
-      "dnaOut": "./dna-out",
-      "dataset": "rand",
+      "dnaOut": "./dna-v101/raw",
+      "dataset": "rand_chinese",
       "output": "./public/dna_database.json",
       "visualization": {
         "minCount": 3,
@@ -16,6 +16,21 @@
         "hullTension": 0.5,
         "hullFillOpacity": 0.12,
         "hullStrokeOpacity": 0.3
+      },
+      "coordinateSystem": {
+        "pipeline_version": "text-dna-concat-v1",
+        "encoder": "Qwen/Qwen3-Embedding-8B",
+        "encoder_revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+        "pre_agg_embed_dim": 64,
+        "normalize_embeddings": false,
+        "projection_sha256": "08d4233dd9c1fb58e4c35a1035df063e3adb5b72e14c5566139824941e2c793a",
+        "probe_order_sha256": "8e01e69df865b3123c9242ff0d6dd39761e21e5e87e7e3c6b17e4a139c7c1c09",
+        "probe_count": 100
+      },
+      "coverage": {
+        "status": "incremental_verified_cache_replay",
+        "models": 181,
+        "note": "Only corrected signatures are compared. Unclassified empty-answer models are withheld."
       }
     },
     "chat": {
