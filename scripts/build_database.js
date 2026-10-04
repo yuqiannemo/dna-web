@@ -15,6 +15,7 @@ import { existsSync } from 'fs';
 import { createRequire } from 'module';
 import { UMAP } from 'umap-js';
 import config from '../config.json' with { type: 'json' };
+import { validateCoordinateSystem } from './validate_coordinate_system.js';
 
 const require = createRequire(import.meta.url);
 const TSNE = require('tsne-js');
@@ -93,6 +94,8 @@ async function buildDatabase(mode, datasetConfig) {
                 // Read DNA
                 const dnaData = JSON.parse(await readFile(dnaFile, 'utf-8'));
 
+                if (datasetConfig.coordinateSystem) validateCoordinateSystem(dnaData, datasetConfig.coordinateSystem);
+
                 // Read summary if exists
                 let summaryData = {};
                 if (existsSync(summaryFile)) {
@@ -116,7 +119,9 @@ async function buildDatabase(mode, datasetConfig) {
                     metadata: {
                         dna_dimension: dnaData.metadata?.dna_dimension || 128,
                         extraction_time: dnaData.metadata?.extraction_time,
-                        probe_count: dnaData.metadata?.probe_count
+                        probe_count: dnaData.metadata?.probe_count,
+                        extraction_version: datasetConfig.coordinateSystem ? '1.0.1' : 'legacy',
+                        empty_answer_count: dnaData.metadata?.extractor_config?.zero_placeholder_indices?.length
                     }
                 };
 
@@ -128,6 +133,7 @@ async function buildDatabase(mode, datasetConfig) {
             }
         }
 
+        if (datasetConfig.coordinateSystem && errors.length) throw new Error(errors.join('\n'));
         console.log(`\n✓ Processed ${models.length} models`);
 
         if (errors.length > 0) {
@@ -150,7 +156,9 @@ async function buildDatabase(mode, datasetConfig) {
         const database = {
             models,
             metadata: {
-                version: '1.0.0',
+                version: datasetConfig.coordinateSystem ? '1.0.1' : '1.0.0',
+                coordinate_system: datasetConfig.coordinateSystem || null,
+                coverage: datasetConfig.coverage || null,
                 total_models: models.length,
                 last_updated: new Date().toISOString().split('T')[0],
                 mode: mode,
@@ -169,6 +177,7 @@ async function buildDatabase(mode, datasetConfig) {
 
     } catch (err) {
         console.error(`Fatal error building ${mode}:`, err);
+        process.exitCode = 1;
         return null;
     }
 }
