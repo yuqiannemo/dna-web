@@ -1,0 +1,1434 @@
+{
+  "batch": "raw_06",
+  "mode": "raw",
+  "processed": 200,
+  "published": [
+    {
+      "model": "m-a-p/YuE-s1-7B-anneal-en-cot",
+      "source_sha256": "e8fbf0f05b970edfb93ea14c0ee21ff9dd181fc43a3aaf49155648408abc5541",
+      "empty_indices": []
+    },
+    {
+      "model": "m-a-p/YuE-s2-1B-general",
+      "source_sha256": "f0c5e6687d245461dc051db9d7bf81ab9e9fe030dc3590e4ecb5ffd17447ec9c",
+      "empty_indices": []
+    },
+    {
+      "model": "m42-health/Llama3-Med42-8B",
+      "source_sha256": "33e9db76166361d2ec92725f10402bebbceaed20b293cc55adf7000d946d9661",
+      "empty_indices": []
+    },
+    {
+      "model": "m8than/Mistral-Nemo-Instruct-2407-lenient-chatfix",
+      "source_sha256": "e630e900a327bfa47942ccc7d74207a3d1402804bbf920aed8c089e69cd8f088",
+      "empty_indices": []
+    },
+    {
+      "model": "marin-community/marin-8b-base",
+      "source_sha256": "fc33b714eaeeb31ba60301695999c014025ce1447e94e15f8020b86de057638c",
+      "empty_indices": []
+    },
+    {
+      "model": "maxcurrent/Peagle-9b",
+      "source_sha256": "0e710a90e74f326fe850dba8ff28f25b194e61d145c263b5827b787c81286972",
+      "empty_indices": []
+    },
+    {
+      "model": "maywell/Synatra-7B-v0.3-RP",
+      "source_sha256": "c263545236115290d7d80e750bca8a31052198eea12411809c03f12514aa9516",
+      "empty_indices": []
+    },
+    {
+      "model": "mbakgun/Qwen2.5-Coder-14B-n8n-Workflow-Generator",
+      "source_sha256": "8a461f155b4ec9911a736b88950be1356256f42ca17f6e0e997f572cd0f70029",
+      "empty_indices": []
+    },
+    {
+      "model": "mconcat/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-NVFP4",
+      "source_sha256": "8363fca9590944444df891f3581d64bf109bd576a25f838ce362a7eb3052a3f8",
+      "empty_indices": []
+    },
+    {
+      "model": "medalpaca/medalpaca-7b",
+      "source_sha256": "66808869801c0f2148456dcbc2f726ae6dd90447a19a39713ed9b7503f25f66b",
+      "empty_indices": []
+    },
+    {
+      "model": "mehuldamani/sft-base-half-tranches-v1-global-step-394",
+      "source_sha256": "4a07ae4d434434aecb16b1cb9d62e403166d71b033aedb7886e2e18e5a557d5f",
+      "empty_indices": []
+    },
+    {
+      "model": "mehuldamani/sft-instruct-vvx2",
+      "source_sha256": "63cb883e102008045d2098b1cfb8beea4b8e0b14d55609f8af6a4426bf1f959d",
+      "empty_indices": []
+    },
+    {
+      "model": "meraGPT/mera-mix-4x7B",
+      "source_sha256": "4a130b30e75bf6489c152d367b81c0a70f0f7783d83bd3227254f7b58bd2dbb4",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-2-13b-chat-hf",
+      "source_sha256": "d06d399debb87a77b742c08a2b47dc8a878fa2f782a64b131deda36e6931dfae",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-2-13b-hf",
+      "source_sha256": "796ad7b32c6d4d65f41fb76e2ffaad118e436f3b64b92b8efd245533eefc4b9b",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-2-7b-chat-hf",
+      "source_sha256": "36bb1fca1149483888a4872b6b2a36d46c6b206c51d86bb93dba45a2f9496018",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-2-7b-hf",
+      "source_sha256": "bde260fdc449ae6b71c4278d5c3ef088b128fd258132dffdbf95209d6a5111f0",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-3.1-8B",
+      "source_sha256": "6a5e257833f22627e1af23f68213febc863e88fdb557766ef2ce0c43d0a11c7a",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "source_sha256": "3fc5ee40d1082e642a12364ff92db0f61351aeb7c4762ffa526b1e2e7d6c5215",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-Guard-3-8B",
+      "source_sha256": "33d696962b49867530136f2544b48b18cd30a447732cb33ca21d3bd5657fe14f",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-llama/Llama-Guard-3-8B-INT8",
+      "source_sha256": "ab3eb7aa0ccf09907479a1ce54567d31e33acb032cdb243ef2c099012fe84353",
+      "empty_indices": []
+    },
+    {
+      "model": "meta-math/MetaMath-Mistral-7B",
+      "source_sha256": "9f7bb11c856769d938a29d7aa0be2039fd4c351388395fcc335c76ba12602514",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/DialoGPT-medium",
+      "source_sha256": "ed210bc8d3f3e4f25efd1d6d6adfe24787f33985869f4a9ef44e93ec5561f566",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/DialoGPT-small",
+      "source_sha256": "18aea5886ba6fc96f59bbebb77b9a4eeb2b0ae42d8a34513095de4feb34b3af2",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/FrogBoss-32B-2510",
+      "source_sha256": "c3f203c5e3072d04085ef8ed3b52644461a25fc4416b721b443412443a75fdd9",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/MediPhi",
+      "source_sha256": "05d20725236eb985044c1f7867f07b3f5966eb265de12e749501ea8eedadc63b",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/MediPhi-Clinical",
+      "source_sha256": "f9d69020fe0f037a1bd34ccc0e87742bdf7818c58d8a0c6ed06eba9b63844b11",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/MediPhi-Instruct",
+      "source_sha256": "f302245e269dca99919b0661422d90434ec8ed925a9b89e6601006b42fa7b2d6",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-3-medium-128k-instruct",
+      "source_sha256": "8012796eed6f0b5e15febf8561bac78a3cec5d79c398e1fc160e80f2abacd1ac",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-3-mini-128k-instruct",
+      "source_sha256": "8abebad151c38bc51fa96da3595d5d19228df0c2a4b82ee4697342ab400bd21a",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-3-mini-4k-instruct",
+      "source_sha256": "2cbfd664186a2f277d9755a2341c86e2e6faa8da9a77ec4b68ced6b026d731a0",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-3-vision-128k-instruct",
+      "source_sha256": "4506f9992bb18b961faca25ebf396db41a6e912b03de614f1e94713536cf82ab",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-4-mini-instruct",
+      "source_sha256": "ccef82982d8dfe5b071db767f6b8dbbaf9b222bd5b35927e769d922b56f9f5da",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-4-mini-reasoning",
+      "source_sha256": "1aef26151cd525dd5c4a66bfceecc910ff7180483d299b189bc24deb9a6420d4",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-4-reasoning",
+      "source_sha256": "b8e19fb78d2047e83709f6f4b572592f3802e0da09454896304970afa070e87b",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-4-reasoning-plus",
+      "source_sha256": "c87a940e9d1295496b698f2e7a33d612570458722be602e90054a85039605f65",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/Phi-tiny-MoE-instruct",
+      "source_sha256": "529966373a965c0bf925e439f2957cd68d5569a36da3cb6767d0d9e3c679acea",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/phi-1",
+      "source_sha256": "f5d21c98a00e1b936d7673ad35ae4757fda4d5b4114ae2d996403c9966fa8b54",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/phi-1_5",
+      "source_sha256": "af509d0a5ba895354f40aaab75a392b5cffce0cbcc971dd172de6f4723ccf06a",
+      "empty_indices": []
+    },
+    {
+      "model": "microsoft/phi-2",
+      "source_sha256": "f302e5edbdd9cacebf04df6132ca2ce8ee5aaa8b283a69ff311d1811c55d2e68",
+      "empty_indices": []
+    },
+    {
+      "model": "migtissera/Llama-3-8B-Synthia-v3.5",
+      "source_sha256": "b53ef23f358ac96f2f0005b2686e271114f074047728302864710050e44a8f05",
+      "empty_indices": []
+    },
+    {
+      "model": "migtissera/Tess-2.0-Llama-3-8B",
+      "source_sha256": "11e72864b62e110dde964f58a7cab1af98d4943632bb3dd734178b65d5adab69",
+      "empty_indices": []
+    },
+    {
+      "model": "migtissera/Tess-M-v1.3",
+      "source_sha256": "8d5fc803f61e071fee46eedccbd5b622fa82abaac84591dc6951197956e47d2c",
+      "empty_indices": []
+    },
+    {
+      "model": "mii-llm/minerva-chat-v0.1-alpha-sft",
+      "source_sha256": "000a2da6b4fa70a8599d8d3a410066a32dc6ae387b4ac6578e8250a63639f018",
+      "empty_indices": []
+    },
+    {
+      "model": "ministral/Ministral-3b-instruct",
+      "source_sha256": "34034b3223b17bdc1f41cd9b569c1ace7666849f0673e85d57ba371e6c01c90b",
+      "empty_indices": []
+    },
+    {
+      "model": "mistral-community/Mistral-7B-Instruct-v0.3",
+      "source_sha256": "cbed1897ae4819c1c64101f05f77e0c49744e679db109d9ab42b8e10ea3bc08c",
+      "empty_indices": []
+    },
+    {
+      "model": "mistral-community/Mistral-7B-v0.2",
+      "source_sha256": "2dbbfa1ca0b13e351d04a79a145bf63973ab1d783b8921defa078bbbb8aae409",
+      "empty_indices": []
+    },
+    {
+      "model": "mistralai/Mistral-7B-Instruct-v0.2",
+      "source_sha256": "4041dafa89377207de041be89a963654fdaa091f323dcc16c91379aeb3e52a39",
+      "empty_indices": []
+    },
+    {
+      "model": "mistralai/Mistral-7B-v0.1",
+      "source_sha256": "bab1ddab578152c231878b26c371ec0a6514fe509ce9935bc7a7247795e09d03",
+      "empty_indices": []
+    },
+    {
+      "model": "mixtao/MixTAO-7Bx2-MoE-v8.1",
+      "source_sha256": "d9c946c1c78aaa46ec11d936d15ceaf063a91e2296d66aecb92bc553ee3c8f81",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/AlphaMonarch-7B",
+      "source_sha256": "70c7a5955eef0e2ce800b8585047dd95877ab035c57cc782d611ca6f7e7b048b",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/Beyonder-4x7B-v3",
+      "source_sha256": "aae6d22b29b0f04456a1991c86b83c3b368d8e6f667658578011b76191318e64",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/ChimeraLlama-3-8B-v2",
+      "source_sha256": "0cc2886959fdfa9f7110c70a7b776cd196c7beb8dce54ccf3f587dd082bbacf8",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/ChimeraLlama-3-8B-v3",
+      "source_sha256": "22e46361eb0550091d150e5efb4d3f0bc75b2ab8b918c4950d6cb083bea75d75",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/Daredevil-8B-abliterated",
+      "source_sha256": "b787277e37cf3fe42fdf12aaff3ba8eddfd8d657463822196fab31fc6adab157",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated",
+      "source_sha256": "be3ab1978b5aa41618a5f7cd2168f54ee02eee7ae4b4a902013b4b1c441cc148",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/NeuralDaredevil-8B-abliterated",
+      "source_sha256": "a92f6f1e599fe21b460e032b5051a8df6de4eb87dc172e49320a269c0bffb74f",
+      "empty_indices": []
+    },
+    {
+      "model": "mlabonne/NeuralMonarch-7B",
+      "source_sha256": "59a82795a25cc53ed83c1da9064bb894d863436f6cce86ce6931f09a49749810",
+      "empty_indices": []
+    },
+    {
+      "model": "modularai/SmolLM-135M-Instruct-FP32",
+      "source_sha256": "e070889ae32df1fff27e3288eee4b71024dd91c93a8f8ac3b37ade4f8c0b0f4e",
+      "empty_indices": []
+    },
+    {
+      "model": "moonshotai/Moonlight-16B-A3B-Instruct",
+      "source_sha256": "d4ba9923c88bd2c1952a23f36d92f6ea5792fcd995d890899b944bb7edcb7c06",
+      "empty_indices": []
+    },
+    {
+      "model": "moonshotai/kimi-k2-thinking",
+      "source_sha256": "1264571b620d4d4e123a95f7b9d2909a37cae4dc584b52b173953af951ced44c",
+      "empty_indices": []
+    },
+    {
+      "model": "mtgv/MobileLLaMA-1.4B-Chat",
+      "source_sha256": "5f8272a5f20a0154742a7467bad3c38c2895168a631b17a1b2847df7e70a2d34",
+      "empty_indices": []
+    },
+    {
+      "model": "naver-hyperclovax/HyperCLOVAX-SEED-Think-14B",
+      "source_sha256": "bd4f8b9ffec94cedd06be15fc61aca9dd254f8a17420c0fb823754cdea75f5d0",
+      "empty_indices": []
+    },
+    {
+      "model": "naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B",
+      "source_sha256": "8c28b0bd0b90fcd4f57447c2b973eb009ce142d587f16447fab11eec59bfcf02",
+      "empty_indices": []
+    },
+    {
+      "model": "ncfrey/ChemGPT-4.7M",
+      "source_sha256": "5be2c2a01aba174167d53798aa60a9dfb0f0da9a0173d599487d451f779d8866",
+      "empty_indices": []
+    },
+    {
+      "model": "nferruz/ProtGPT2",
+      "source_sha256": "dc0bb04e983fdfba123b51942c859f48a867d747bc7312bccab2a71c3dd8443b",
+      "empty_indices": []
+    },
+    {
+      "model": "nickypro/tinyllama-15M",
+      "source_sha256": "0318441135103b813c4ec3f329b14bd262baa82947f2ccf5d3021a1187c7d75b",
+      "empty_indices": []
+    },
+    {
+      "model": "nisten/Biggie-SmoLlm-0.15B-Base",
+      "source_sha256": "1500aae660d03e23489528a1cbbc0e2baf9337d87b41a50585f91c78c16ea10b",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/Meta-Llama-3-8B-Instruct-nonuniform-test",
+      "source_sha256": "826b3d1858f0a51add8f970644b151295e930d0fb7d80c9166d931217fd2ecaf",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/SmolLM-1.7B-Instruct-quantized.w4a16",
+      "source_sha256": "1e370847b33642d54070ce08f0fcb3281c1cc625b8d713a6cf82ea4112866282",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/llama2.c-stories15M",
+      "source_sha256": "e2235b2bd14001b3d11754656fdd1e55ec68600b71373bf20f737445a0fe9bd1",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/tinyllama-oneshot-w4a16-channel-v2",
+      "source_sha256": "ef0b74efa5fbba895d58153540c87e05b9573aa68f51c279642fab15008dd83f",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/tinyllama-oneshot-w8a8-channel-dynamic-token-v2",
+      "source_sha256": "a7e247cf67075a8ac53aecc40b3c7a3b280532b4b170d458f093462764fa2b86",
+      "empty_indices": []
+    },
+    {
+      "model": "nm-testing/tinyllama-oneshot-w8a8-dynamic-token-v2",
+      "source_sha256": "e7c50bb8c75b9815f02a593a093ec5667a17aeb462e45e6191e2e3cf1c6d16b9",
+      "empty_indices": []
+    },
+    {
+      "model": "nomic-ai/gpt4all-j",
+      "source_sha256": "64498696f28215e524e4b4607fb385412d9c7a1a354deee36c43929c174e531c",
+      "empty_indices": []
+    },
+    {
+      "model": "norallm/normistral-7b-warm",
+      "source_sha256": "f4d653d67f313f92866f7df035ffb1c3c251aeadca66b8ab1142ceddb8c61de8",
+      "empty_indices": []
+    },
+    {
+      "model": "norallm/normistral-7b-warm-instruct",
+      "source_sha256": "9be7f681189f401a1de2ab9dbeb4bb33e8602f8cf92cd485b544b07ad55c0603",
+      "empty_indices": []
+    },
+    {
+      "model": "np-cr/testing-gpt-oss",
+      "source_sha256": "a6e719730439a766e0ce1468dd604f7a2118f7b07dded066b6dbf626c9eeca6b",
+      "empty_indices": []
+    },
+    {
+      "model": "numind/NuExtract-1.5",
+      "source_sha256": "a4a118d6eedb77b46674db1ab5f40365e45c48325f18fc5a0da6bfaa96b10f46",
+      "empty_indices": []
+    },
+    {
+      "model": "numind/NuExtract-1.5-tiny",
+      "source_sha256": "c852050bc59b066b1c8d3dce80b53fe268e3578f240cfabe5e10741e713e4764",
+      "empty_indices": []
+    },
+    {
+      "model": "numind/NuExtract-2-4B-experimental",
+      "source_sha256": "3dc09900bb3e16cdd33a97f0e0fe57dcfd3ab5696b98d99d8ee4e175e6993836",
+      "empty_indices": []
+    },
+    {
+      "model": "numind/NuExtract-tiny",
+      "source_sha256": "e438947aeb8d4649cb4f04fcd0868e32070638c97eb0c9e0bd13b5431f01dcb0",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/AceInstruct-7B",
+      "source_sha256": "fa3a5db7a3df09900753d3b7d9f63503ddaf8ac66f6d9eabbdf3837ed1f6d88f",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/AceReason-Nemotron-1.1-7B",
+      "source_sha256": "6f8c24c240af884e5db3b8008431f135d72940dfca5f76b6eb4f8cf081e62da0",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/AceReason-Nemotron-14B",
+      "source_sha256": "758da6d18e624dc317c3d3fded5b2d95c69b15ea83216fb52e2e2bdaacd454ac",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/AceReason-Nemotron-7B",
+      "source_sha256": "80ae7c06f869339675d0fdff6d15f2cd96f3c0d3a8f03bbe05c2aed7199fd838",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Llama-3.1-Minitron-4B-Width-Base",
+      "source_sha256": "aef0decb81d34dd8628a39360c12a8ce2a920e793ccc838e12f029a438a72d02",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Llama-3.1-Nemotron-Nano-4B-v1.1",
+      "source_sha256": "1cff6cc31ecbca56569a59adb0a7f33a95436c4c9806eddfc8fdd89a338a8feb",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Llama-3.1-Nemotron-Nano-8B-v1",
+      "source_sha256": "1f1d52cae746c511c2c3dcf7313ad9b2cc11639b35716502c82c6f07e351e946",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Llama-3.1-Nemotron-Safety-Guard-8B-v3",
+      "source_sha256": "96183c6fdd3c918d53204771ab7180ce53eb789b81d83629d6d8a8b28542a519",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Llama3-ChatQA-1.5-8B",
+      "source_sha256": "6f38b99042a8a5b6e03a07d158bfee149f457b781245908b79fbb9232e045540",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Mistral-NeMo-Minitron-8B-Base",
+      "source_sha256": "52d6e328450599e36ed47aad908d661c0fda094c632be316df32ed1447877b36",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Mistral-NeMo-Minitron-8B-Instruct",
+      "source_sha256": "8a931bcc434175f1bd1bd72265ef3f76c2785956db580dfd338c658f0e64f347",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+      "source_sha256": "f3b5ce3e5034bdae074eb359ebca160d1f97686dfdce46afb9b6b4d1fb593f04",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+      "source_sha256": "9f3e419bf75892da7487e6fc8b523d20e4d364e06c2555ee9f4a8f0f4096a0f3",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base",
+      "source_sha256": "e17c350e294d322174e6854c288aa73dd7074d11f918b28b356662aa66ab4daa",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Cascade-8B",
+      "source_sha256": "49bc7c6bb511df9ed407488a28aa69abe9f3c789e5ffc57b6ca36abfc3e97c5a",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Content-Safety-Reasoning-4B",
+      "source_sha256": "7484e80f06837f840e7a8b05a6a6c88177582e7c86c90bd5671056b8e293f05f",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-H-8B-Base-8K",
+      "source_sha256": "16a555613f19edcbfea93e87902c09d76d058a8ccc828bc383197d556fd8f583",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Mini-4B-Instruct",
+      "source_sha256": "fb37c0f6d54c397a0cff880b53a16f16cf0fcfc7f009b702add1a7ff7a3fc819",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Orchestrator-8B",
+      "source_sha256": "095e5ef957c99c166dadca7ba47750f5f30a121012ca7d560b6146c10692a5f7",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Research-Reasoning-Qwen-1.5B",
+      "source_sha256": "c3749c352d3a96124c11b9a20b3e48b31a51e2500f764b121f07d71b742c2507",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Nemotron-Terminal-8B",
+      "source_sha256": "c7ce1fc00cbd9fa8b2e1054c16f77ca7ddc09cbc6900a4d5e11a7b61b60527c3",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/OpenMath-Nemotron-1.5B",
+      "source_sha256": "8c9d452e1e30deb693aafe0ee230d0fc43d600885605d3b93c57e6616d38ca65",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/OpenMath2-Llama3.1-8B",
+      "source_sha256": "c1da50716083eb3e6fdc7fbbe6daf31f2c97df4274a98bdf23e7b040dc8dfd42",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/OpenReasoning-Nemotron-32B",
+      "source_sha256": "119da56a0a1f8f4f3cf61f750d7430f43a8429f4903aa4a7adb13d76f8e3eb03",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4",
+      "source_sha256": "6c94b5332f296b2103da7fea2c319a9cc246690158321f8e8c8101dcf268370d",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Qwen3-14B-NVFP4",
+      "source_sha256": "bf6f4c0b9b28a2895142b1a3ca37c669fb9ca61795cc803c3a22f3a3d802731b",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Qwen3-32B-NVFP4",
+      "source_sha256": "c8c87209200793fd3a898ee56d17e53e84d1b5f6fa49b2058d4f7def99bd204e",
+      "empty_indices": []
+    },
+    {
+      "model": "nvidia/Qwen3-8B-NVFP4",
+      "source_sha256": "15799c91680d5a907ecb34c5fa0a749bdca474db2d013200a0d8474a79860f8e",
+      "empty_indices": []
+    },
+    {
+      "model": "nytopop/Qwen3-30B-A3B.w8a8",
+      "source_sha256": "8a9c83c37b8b03e9271ef712a68630e3c89dbbfd9e352a75d85b3bbcce6763eb",
+      "empty_indices": []
+    },
+    {
+      "model": "nytopop/Qwen3-8B.w8a8",
+      "source_sha256": "b0269048bd41bbfc99fbc39cf927c32dee9de7e5e5f3c9081d7e8c2dcb9e5241",
+      "empty_indices": []
+    },
+    {
+      "model": "occiglot/occiglot-7b-it-en-instruct",
+      "source_sha256": "d6ef4b1b99252f1e82976f92315c6fba89c075086d2bd2039e25724d32ebbb25",
+      "empty_indices": []
+    },
+    {
+      "model": "onnx-internal-testing/tiny-random-ArceeForCausalLM",
+      "source_sha256": "4e02b4a865c7d083895d4228035abb53570a6a8fb173c2386bba18d388e96869",
+      "empty_indices": []
+    },
+    {
+      "model": "oobabooga/CodeBooga-34B-v0.1",
+      "source_sha256": "afa8aa8195aa59e63f0fb56b9006b625ee277ab871b4d7b884cd868348197bdc",
+      "empty_indices": []
+    },
+    {
+      "model": "open-thoughts/OpenThinker-Agent-v1-SFT",
+      "source_sha256": "a6c193d2b7f2eb3e1ce137fc4180be80ca58ee93e7a6885379fb2ef8df08a586",
+      "empty_indices": []
+    },
+    {
+      "model": "open-thoughts/OpenThinker3-7B",
+      "source_sha256": "c545cd465bcfbb8751d1cffde566bbbd85a87fa76043c61728e2ad741b7ea3f2",
+      "empty_indices": []
+    },
+    {
+      "model": "openGPT-X/Teuken-7B-instruct-research-v0.4",
+      "source_sha256": "b2615cc4ba5ce7c219691dccd523e0bc044d52b249eabda2e13aa08a504fc040",
+      "empty_indices": []
+    },
+    {
+      "model": "openGPT-X/Teuken-7B-instruct-v0.6",
+      "source_sha256": "833882a0340e82cd826a1a6fb04d687f22e90cdcd58cf65e04f7c2b4cf7eeea6",
+      "empty_indices": []
+    },
+    {
+      "model": "openaccess-ai-collective/tiny-mistral",
+      "source_sha256": "7123dbfbcbc83a70553038865a140d95d4af89f4e461603d987177b495c2365a",
+      "empty_indices": []
+    },
+    {
+      "model": "openai-community/gpt2",
+      "source_sha256": "8e6b4180a0b527390cefaca66c7834457b6d3a790c9be63b9e4974dec8eb52fc",
+      "empty_indices": []
+    },
+    {
+      "model": "openai-community/gpt2-large",
+      "source_sha256": "3ff53d1ceb3ca0dbc33c3b36e63b16326059d060dd6776229be28464faac25ff",
+      "empty_indices": []
+    },
+    {
+      "model": "openai-community/gpt2-medium",
+      "source_sha256": "e692ed5c1d9aee488ef2e4cbcc89b094d9c516e4948848b2af9df90295d2051e",
+      "empty_indices": []
+    },
+    {
+      "model": "openai-community/gpt2-xl",
+      "source_sha256": "cf025d0c29b5a53035ecfda9b3a2c0f4f0120f73f5b24c251a769e6476830a3a",
+      "empty_indices": []
+    },
+    {
+      "model": "openai-community/openai-gpt",
+      "source_sha256": "2295c2c64e114d0df73a2288bd35fef322e29acc1635a117f7cea32367e120b0",
+      "empty_indices": []
+    },
+    {
+      "model": "openai/gpt-oss-20b",
+      "source_sha256": "0a6ec21fb30578d006ed7b9249e26934f26b3366e34c5fea9864a0dc433b8edb",
+      "empty_indices": []
+    },
+    {
+      "model": "openai/gpt-oss-safeguard-20b",
+      "source_sha256": "2fc22c2b5da07337d27ec97315ecdd5c1dcf064c2320c3c6c11d6507f0042a7a",
+      "empty_indices": []
+    },
+    {
+      "model": "openbmb/MiniCPM4.1-8B",
+      "source_sha256": "301ba118dea553a3e0d893048128117f17d2f030f3fb988f04988576f69ee241",
+      "empty_indices": []
+    },
+    {
+      "model": "openbmb/MiniCPM4.1-8B-GPTQ",
+      "source_sha256": "a979ab78bf9682247b7f15f0f7826115808f2d07f9fcebd13924dd080045d7fd",
+      "empty_indices": []
+    },
+    {
+      "model": "openchat/openchat-3.5-0106",
+      "source_sha256": "279118370bf950d15dc952201ab326908bbdbf5c76c52f4cfa7f0b72e06c15ef",
+      "empty_indices": []
+    },
+    {
+      "model": "openchat/openchat-3.5-0106-gemma",
+      "source_sha256": "05a1c89bf4b400dad84e7ad6a886634de10075434c08cd92ebf1a094a3705c9a",
+      "empty_indices": []
+    },
+    {
+      "model": "openchat/openchat-3.5-1210",
+      "source_sha256": "3d8e1cca26007b1853f0656601b4a59cdb6f8f31261c487df78d0694a8840f46",
+      "empty_indices": []
+    },
+    {
+      "model": "openchat/openchat-3.6-8b-20240522",
+      "source_sha256": "a66e471c387ac71a4bc4d4bc50fff48961488c19f1e2c880fed9af12b5337e9d",
+      "empty_indices": []
+    },
+    {
+      "model": "openchat/openchat_3.5",
+      "source_sha256": "688c483c22d5d756bf26cd82e19bb4bd8d750ae1192863ee4e4df6a568816408",
+      "empty_indices": []
+    },
+    {
+      "model": "openlm-research/open_llama_13b",
+      "source_sha256": "1b7c3a77e086d6e8be284eb21f9ed31bb8efcaef873e63090886171596349988",
+      "empty_indices": []
+    },
+    {
+      "model": "openlm-research/open_llama_3b",
+      "source_sha256": "7db261933b47ae24588cf3cd2b04dd948c196bd36efecb8409789a63d602935b",
+      "empty_indices": []
+    },
+    {
+      "model": "openlm-research/open_llama_7b",
+      "source_sha256": "82ebe5379ef93e44399a7810d51ab10a0293202639842627effd9fd016b37be8",
+      "empty_indices": []
+    },
+    {
+      "model": "openthaigpt/openthaigpt1.5-7b-instruct",
+      "source_sha256": "d57e58a485a5ed903160d4c85bb903be96386c5f5281fb06cdbade82519d7a2a",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-intel-internal-testing/opt-125m",
+      "source_sha256": "09af78925538e213f8c5c25a8c78283b714873ac9081dc344957b242d7bab844",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-intel-internal-testing/tiny-GptOssForCausalLM",
+      "source_sha256": "7cc3aaa59c147d018aca57a75cb15f1f7540ae5c69e2d25f5387b3ef9c83c59c",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-intel-internal-testing/tiny-random-ArceeForCausalLM",
+      "source_sha256": "3d454cfb02ed319934830a821eb940cf9d978a3de00172a9198d63fea3d4ae8d",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-intel-internal-testing/tiny-random-Phi3ForCausalLM",
+      "source_sha256": "bfc9e15aa3c1f7ceca8be269e86c04005772872cf21986efa55aa51b1d1c6164",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4",
+      "source_sha256": "a85d96538153e7d97482f138e8c1c88615fc144dc0d390b73054a25fe99c0ae9",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-internal-testing/tiny-random-SmolLM3ForCausalLM",
+      "source_sha256": "bf9a735ddb89ddb88cf2191871458ca330dcaa46fcca74d7ec9e47c6cc4ac446",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-internal-testing/tiny-random-gpt-oss",
+      "source_sha256": "c46d2585785036e44587bc06f25dd30353399e1dc3a620ba693b5ccdf3def676",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-internal-testing/tiny-random-qwen3",
+      "source_sha256": "569a860aa473c32bf8cda067d9c8193d3a55e0c7d3fbe8ab7a49ada995baad9a",
+      "empty_indices": []
+    },
+    {
+      "model": "optimum-internal-testing/tiny-random-qwen3_moe",
+      "source_sha256": "76c8a45e282692818e4e9cd9d8c59141276540c480427cc5b1fb67d1005204c1",
+      "empty_indices": []
+    },
+    {
+      "model": "p-e-w/Qwen3-4B-Instruct-2507-heretic",
+      "source_sha256": "426768adea0e3d62e1c612214386290c7bafae9c77f1b06201090ae6d151c005",
+      "empty_indices": []
+    },
+    {
+      "model": "p1atdev/dart-v2-moe-sft",
+      "source_sha256": "80a8f0ae8bef177a577bd61dbe44edb92c51166d74fba493bb0d9abf54ef04c7",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/opt-125m",
+      "source_sha256": "eb98f25160d5341de08580c37d67f6800ff0420aac811729565f39ca5224ffe0",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/tiny-dummy-qwen2",
+      "source_sha256": "5b1cbc4ca9c4dbe2a18cb9aa844d5b074986947127036c045847332c62020ad3",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/tiny-random-GPT2LMHeadModel",
+      "source_sha256": "a5701999072a1d4496c68cb20341319b04595d98f22513ac089c9b440ac569b2",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/tiny-random-GPTJForCausalLM",
+      "source_sha256": "d029b47fefaa44b6c228b80a16cacba09ae864d90754e240f461e253a4746158",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/tiny-random-GPTNeoXForCausalLM",
+      "source_sha256": "4fc8e7a335f91b09c798b8c63864fef67771fe5dc79ea000c1a74b8fdd51417e",
+      "empty_indices": []
+    },
+    {
+      "model": "peft-internal-testing/tiny-random-OPTForCausalLM",
+      "source_sha256": "6bef6d7d64bc6b9222efd27322355e478f5793083321125f2a8d3f254c2db400",
+      "empty_indices": []
+    },
+    {
+      "model": "peiyi9979/math-shepherd-mistral-7b-prm",
+      "source_sha256": "2f90f1f134f04932102ce4e6d9f0bf4010ee596647d2042ff850be481d655238",
+      "empty_indices": []
+    },
+    {
+      "model": "pfnet/plamo-2-1b",
+      "source_sha256": "16cf3db1908c552c4ec95cb2897258e524324a48cd851a7d126b91008dc7c955",
+      "empty_indices": []
+    },
+    {
+      "model": "pierreguillou/gpt2-small-portuguese",
+      "source_sha256": "fb6fa41ff909e3fa093a71f64f647730045713f16bd55bcb393aa9e05eed96d4",
+      "empty_indices": []
+    },
+    {
+      "model": "poedator/opt-125m-bnb-4bit",
+      "source_sha256": "8292693e2ebea6dada49064f74038178c47d08184fa5eaa4b6f79a703fe7008a",
+      "empty_indices": []
+    },
+    {
+      "model": "princeton-nlp/Llama-3-8B-ProLong-64k-Base",
+      "source_sha256": "f23a180d376cd4e1b84d9a935da4267fcbb2683f5fe62c06e4fc6bbc41478af3",
+      "empty_indices": []
+    },
+    {
+      "model": "princeton-nlp/Llama-3-8B-ProLong-64k-Instruct",
+      "source_sha256": "d77200a8b96e6a3de19b0e2a3cc2b416a4e1ddde229e12dece721f43d24d92e1",
+      "empty_indices": []
+    },
+    {
+      "model": "princeton-nlp/Sheared-LLaMA-1.3B",
+      "source_sha256": "49a12b290ccb09564bd33defa2a4a0cd82ea7b69a4e55f669bf4bc1c65ac6eaf",
+      "empty_indices": []
+    },
+    {
+      "model": "princeton-nlp/Sheared-LLaMA-2.7B",
+      "source_sha256": "d22763556e51f90d7cd5268d25fb2c80d037a78451241aab782e3cb5c3d95690",
+      "empty_indices": []
+    },
+    {
+      "model": "prithivMLmods/DeepHermes-3-Llama-3-3B-Preview-abliterated",
+      "source_sha256": "ee843cfdc6c9d8e673b9d2e38316c0b7cbab5220be43490c7a34f0e09f259d7b",
+      "empty_indices": []
+    },
+    {
+      "model": "prometheus-eval/prometheus-7b-v2.0",
+      "source_sha256": "1fd64c541843f6e8392b5237981607285553dd3512e8a2ef32e0fc8f1e28bb16",
+      "empty_indices": []
+    },
+    {
+      "model": "qnguyen3/Master-Yi-9B",
+      "source_sha256": "2f9406aeebe9c378124800f73bb32172ccc91b52a0ad3ad7a4c7892809547cf5",
+      "empty_indices": []
+    },
+    {
+      "model": "qwen/qwen2.5-coder-7b-instruct",
+      "source_sha256": "efdf1b1cf215fcbc085e315d455983aa36a7b229989e7ed814ab5e9327af865d",
+      "empty_indices": []
+    },
+    {
+      "model": "qwen/qwen3-14b",
+      "source_sha256": "68e85e09a8f0b06a54834cfe134459e37562bae3a62d1684c8ef953de66621aa",
+      "empty_indices": []
+    },
+    {
+      "model": "qwen/qwen3-coder-next",
+      "source_sha256": "4bc8452bd465ac05ba4d251892f8de04b219a2def930675c46bd12620271542e",
+      "empty_indices": []
+    },
+    {
+      "model": "radheneev/NetrAI-L3",
+      "source_sha256": "0cce501253c1421bf3f3da0d28f511f88744b8aaac4c8136f3f05da9e96e079f",
+      "empty_indices": []
+    },
+    {
+      "model": "rahul7star/Qwen3-4B-Thinking-2509-Genius-Coder-AI-Full",
+      "source_sha256": "0394ab54042ee170d704055b77d806d196af60f0e28f5bce3d30157795a47542",
+      "empty_indices": []
+    },
+    {
+      "model": "refuelai/Llama-3-Refueled",
+      "source_sha256": "6e847fa09507ff13230e33270763f388759e3014e8af9df8e085d1746f274e2d",
+      "empty_indices": []
+    },
+    {
+      "model": "reglab-rrc/mistral-rrc",
+      "source_sha256": "e39afcc178ea474d28ae2e30bc010b00979ae68fe2eead05767e544188c07259",
+      "empty_indices": []
+    },
+    {
+      "model": "rinna/bilingual-gpt-neox-4b",
+      "source_sha256": "77cf1ca7bfad0a7cdcbb9d130768be9865dba3c53744ed07507ab06d7cd2b614",
+      "empty_indices": []
+    },
+    {
+      "model": "rinna/japanese-gpt-1b",
+      "source_sha256": "c16fdd5ab53ac56a8721309ed0f1d13d4122802d8af9d717ead91205cfc67e31",
+      "empty_indices": []
+    },
+    {
+      "model": "rinna/japanese-gpt-neox-3.6b-instruction-sft-v2",
+      "source_sha256": "d126f7ca75a5c6269db66284e9e33226d5877c1bea133e88865eece9059c7373",
+      "empty_indices": []
+    },
+    {
+      "model": "rinna/japanese-gpt-neox-small",
+      "source_sha256": "4df0818e324e9992afe07e701c3d066583658be2a376b3bc43ae65490d761f80",
+      "empty_indices": []
+    }
+  ],
+  "withheld": [
+    {
+      "model": "microsoft/DialoGPT-large",
+      "empty_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        91,
+        92,
+        93,
+        94,
+        96,
+        97,
+        98,
+        99
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "migtissera/SynthIA-7B-v1.3",
+      "empty_indices": [
+        2,
+        25,
+        50,
+        96
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "migtissera/Tess-XS-v1-3-yarn-128K",
+      "empty_indices": [
+        92
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "mii-llm/maestrale-chat-v0.4-beta",
+      "empty_indices": [
+        10,
+        23,
+        56,
+        63,
+        92,
+        93
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "mistralai/Mistral-7B-Instruct-v0.1",
+      "empty_indices": [
+        15,
+        48,
+        95
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "moonshotai/Moonlight-16B-A3B",
+      "empty_indices": [
+        12,
+        53
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "nm-testing/tinyllama-oneshot-w8w8-test-static-shape-change",
+      "empty_indices": [
+        45,
+        53,
+        58,
+        59,
+        61,
+        62,
+        79,
+        85
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "nvidia/Minitron-4B-Base",
+      "empty_indices": [
+        1,
+        2,
+        4,
+        7,
+        10,
+        11,
+        12,
+        15,
+        19,
+        20,
+        21,
+        22,
+        25,
+        28,
+        29,
+        30,
+        31,
+        34,
+        35,
+        36,
+        37,
+        39,
+        41,
+        46,
+        48,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        58,
+        60,
+        62,
+        63,
+        64,
+        67,
+        68,
+        70,
+        71,
+        72,
+        74,
+        75,
+        78,
+        79,
+        80,
+        81,
+        85,
+        86,
+        91,
+        92,
+        94,
+        96,
+        98
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "nvidia/Minitron-8B-Base",
+      "empty_indices": [
+        1,
+        2,
+        21,
+        52,
+        53,
+        62,
+        71,
+        79,
+        95,
+        98
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "nvidia/Nemotron-H-4B-Base-8K",
+      "empty_indices": [
+        1,
+        15,
+        22,
+        24,
+        51,
+        57,
+        58,
+        70,
+        78,
+        85,
+        86,
+        87,
+        89,
+        91,
+        96
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "nvidia/Nemotron-H-4B-Instruct-128K",
+      "empty_indices": [
+        11,
+        16,
+        33,
+        51,
+        86
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openbmb/MiniCPM-1B-sft-bf16",
+      "empty_indices": [
+        1,
+        4,
+        5,
+        7,
+        9,
+        22,
+        23,
+        37,
+        41,
+        46,
+        48,
+        50,
+        54,
+        55,
+        60,
+        61,
+        66,
+        68,
+        69,
+        72,
+        74,
+        85,
+        88,
+        94,
+        95
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openbmb/MiniCPM-2B-sft-bf16",
+      "empty_indices": [
+        34,
+        49,
+        56,
+        64,
+        74,
+        77,
+        78,
+        98,
+        99
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openbmb/MiniCPM-MoE-8x2B",
+      "empty_indices": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        23,
+        24,
+        25,
+        29,
+        31,
+        32,
+        33,
+        35,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        49,
+        50,
+        51,
+        53,
+        54,
+        55,
+        56,
+        58,
+        60,
+        61,
+        63,
+        69,
+        71,
+        72,
+        73,
+        74,
+        75,
+        77,
+        78,
+        79,
+        80,
+        86,
+        87,
+        92,
+        94,
+        95,
+        96,
+        99
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openbmb/MiniCPM3-4B",
+      "empty_indices": [
+        3,
+        9,
+        10,
+        12,
+        17,
+        20,
+        34,
+        35,
+        36,
+        50,
+        53,
+        56,
+        57,
+        60,
+        79
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openbmb/MiniCPM4-0.5B",
+      "empty_indices": [
+        21,
+        34,
+        56,
+        98
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openlm-research/open_llama_3b_v2",
+      "empty_indices": [
+        2,
+        4,
+        11,
+        21,
+        25,
+        28,
+        29,
+        36,
+        55,
+        56,
+        60,
+        62,
+        64,
+        71,
+        79,
+        95
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "openlm-research/open_llama_7b_v2",
+      "empty_indices": [
+        19,
+        36
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "optimum-internal-testing/tiny-random-internlm2",
+      "empty_indices": [
+        6,
+        17,
+        20,
+        35,
+        51,
+        53,
+        57,
+        63,
+        64
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "polypo/gpt2-expansion",
+      "empty_indices": [
+        0,
+        2,
+        4,
+        5,
+        10,
+        11,
+        14,
+        15,
+        17,
+        25,
+        30,
+        32,
+        34,
+        39,
+        43,
+        44,
+        48,
+        50,
+        52,
+        53,
+        55,
+        59,
+        60,
+        63,
+        64,
+        67,
+        69,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        84,
+        86,
+        88,
+        91,
+        92,
+        95,
+        96,
+        97,
+        98
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "qqlabs/llama3_1_relevance_dev",
+      "empty_indices": [
+        9,
+        11,
+        12,
+        16,
+        22,
+        35,
+        37,
+        41,
+        73,
+        74,
+        87
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "raicrits/Hermes7b_ITA",
+      "empty_indices": [
+        26
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    },
+    {
+      "model": "rinna/japanese-gpt2-medium",
+      "empty_indices": [
+        62
+      ],
+      "reason": "Empty answers not yet classified as legitimate or failed requests."
+    }
+  ],
+  "coordinate_system": {
+    "pipeline_version": "text-dna-concat-v1",
+    "encoder": "Qwen/Qwen3-Embedding-8B",
+    "encoder_revision": "1d8ad4ca9b3dd8059ad90a75d4983776a23d44af",
+    "pre_agg_embed_dim": 64,
+    "normalize_embeddings": false,
+    "projection_sha256": "08d4233dd9c1fb58e4c35a1035df063e3adb5b72e14c5566139824941e2c793a",
+    "probe_order_sha256": "8e01e69df865b3123c9242ff0d6dd39761e21e5e87e7e3c6b17e4a139c7c1c09",
+    "probe_count": 100
+  },
+  "generation": "Reused historical responses; zero provider API calls.",
+  "limitations": "100 historical random Chinese probes, not the new default 600 benchmark probes. Legacy generation provenance may be unknown."
+}
